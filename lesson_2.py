@@ -1,8 +1,10 @@
+"""Lesson 2 Python with Git, GitHub, Debugging and Linting"""
+
 # Define the variables
-a = 5
-b = 3
-c = 10
+A = 5
+B = 3
+C = 10
 
 # Compute and print the logical output
-print((a + b) * c == 80)  
-print(a / (b + c) == 5 / 13)
+print((A + B) * C == 80)
+print(A / (B + C) == 5 / 13)
