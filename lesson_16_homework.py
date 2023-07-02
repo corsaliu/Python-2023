@@ -31,7 +31,7 @@ def get_sum(num1, num2):
     return num1 + num2
 
 def test_sum():
-    assert get_sum(2,6) == 7
+    assert get_sum(2,6) == 8
     assert get_sum(-5, 10) == 5
     assert get_sum(0,0) == 0
 
